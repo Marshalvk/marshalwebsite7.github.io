@@ -778,7 +778,7 @@ textarea:valid{
 		font-size: 25px;
 		margin: 5px;
 	}
-	.navbar{
+	.navbar.open{
 		top: 100%;
 	}
 }
